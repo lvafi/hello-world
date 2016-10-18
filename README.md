@@ -1,2 +1,3 @@
 # hello-world
 first repository for testing
+Hi there! ladi here... I am here to prectice some coding....
